@@ -4,10 +4,6 @@ Perguntas técnicas Front-end
 
 Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candidatos se nivelarem, em entrevistas de emprego. Não são necessariamente o fator decisivo da senioridade de cada candidato, outros fatores como experiência em projetos, em liderança, documentação, saber caso de uso de tecnologia e conceitos, as vezes pode contar muito mais do que saber decor respostas para perguntas.
 
-Outros Repositórios (em inglês)
-FrontEnd Developer Interview Questions
-Vue.js Interview Questions
-
 Junior
 1.O que é SQL injection?
 
